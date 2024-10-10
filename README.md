@@ -77,7 +77,7 @@ All commands executed during this setup, along with their results, are documente
 
 ## Usage
 
-To replicate this setup on your own system, follow the step-by-step instructions provided in the [Nat_using_netns.docx](Nat_using_netns.docx) file. Each step is documented with the exact commands to execute and expected outputs, making it easy to understand and troubleshoot.
+To replicate this setup on your own system, follow the step-by-step instructions provided in the [NAT using netns.docx](NAT%20using%20netns.docx) file. Each step is documented with the exact commands to execute and expected outputs, making it easy to understand and troubleshoot.
 
 ---
 
