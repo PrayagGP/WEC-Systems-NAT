@@ -23,3 +23,8 @@ Managing network namespaces and veth pairs required careful configuration to ens
 
 3. Name Length Restrictions:
 Encountered issues with the naming conventions of veth interfaces due to Linux restrictions on interface name lengths. Adjusted the interface names to be shorter to avoid validation errors.
+
+#### References
+https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/
+https://radagast.ca/linux/nat_and_ip_masquerade.pdf
+https://man7.org/linux/man-pages/man8/ip-netns.8.html
