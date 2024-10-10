@@ -12,6 +12,7 @@ The topology is as follows:
 |Client (192.168.10.2)| <--------> |Router (NAT) (192.168.10.1/24, 10.0.0.1/24)| <--------> |Internet (10.0.0.2)|
 
 The commands used and the results can be checked in the "Nat using netns.docx" file in this repository.
+Bonus task regarding configuration of port forwarding has been done
 
 ### Challenges faced
 1. Legacy Version Issues with iptables:
