@@ -18,7 +18,7 @@ This setup allows the client in the private LAN to reach the simulated internet 
 
 ### Documentation and Results
 
-All commands executed during this setup, along with their results, are documented in the [Nat using netns.docx](Nat using netns.docx) file included in this repository. Additionally, the bonus task of configuring port forwarding has been successfully implemented and is detailed in the document.
+All commands executed during this setup, along with their results, are documented in the [Nat_using_netns.docx](Nat_using_netns.docx) file included in this repository. Additionally, the bonus task of configuring port forwarding has been successfully implemented and is detailed in the document.
 
 ---
 
